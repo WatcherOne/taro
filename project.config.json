@@ -2,7 +2,7 @@
 	"miniprogramRoot": "dist/",
 	"projectname": "my-project",
 	"description": "it's a selected project",
-	"appid": "wxf1eba485fa2de628",
+	"appid": "wx16d26cbba526afec",
 	"cloudfunctionRoot": "static/cloudFunction/",
 	"setting": {
 		"urlCheck": true,

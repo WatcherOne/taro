@@ -12,7 +12,7 @@ import './app.scss'
 // }
 
 wx.cloud.init({
-  env: 'dev-watcher-gq3jh', // 你的云数据库环境ID
+  env: 'dev-watcher', // 你的云数据库环境ID
   traceUser: true
 })
 
